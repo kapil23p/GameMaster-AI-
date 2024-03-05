@@ -1,0 +1,7 @@
+important keys used in pygame:
+1.screen = pygame.display.set_mode((x,y))  
+    this line creates the screen to play the objects in x,y plane which are measured from top right corner
+    display key used to access the key 
+    (()) brackets are used to make tuple makes x,y values constant
+
+    
